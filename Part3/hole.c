@@ -1,7 +1,7 @@
 #include "apue.h"
 #include <fcntl.h>
 
-
+/* 2016.10.21 */
 char buf1[] = "abcdefghij";
 char buf2[] = "ABCDEFGHIJ";
 
