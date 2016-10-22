@@ -1,7 +1,7 @@
 #include "apue.h"
 #include <fcntl.h>
 
-
+/* 20161021 */
 int
 main(int argc,char* argv[])
 {
