@@ -18,7 +18,7 @@ main(void)
 		err_sys("open error");
 	}
 
-	set_fl(fd,O_NONBLOCK);  /* set source.txt's flag no block */
+	set_fl(fd,O_APPEND);  /* set source.txt's flag no block */
 
 	close(fd);  	     /* close source.txt */
 
