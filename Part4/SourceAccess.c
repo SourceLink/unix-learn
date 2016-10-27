@@ -1,4 +1,4 @@
-#include "apue.h"
+include "apue.h"
 #include <fcntl.h>
 
 
@@ -25,6 +25,6 @@ main(int argc,char* argv[])
 	else{
 		printf("open for reading OK\n");
 	}
-	
+
 	exit(0);
 }
